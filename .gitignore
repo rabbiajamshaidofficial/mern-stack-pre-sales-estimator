@@ -1,0 +1,13 @@
+# Dependency folders (very large, recreated with 'npm install')
+node_modules/
+
+# Local environment variables (Contains your MongoDB password!)
+.env
+
+# Build folders
+build/
+dist/
+
+# OS metadata
+.DS_Store
+Thumbs.db
